@@ -75,7 +75,7 @@ body > header > nav > a > span{
 /* ##### HERO ##### */
 
 #hero {
-    background-image: url('/img/home2.jpg');
+    background-image: url('./img/home2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -242,7 +242,7 @@ body > section.services.py-5 > div > div.row > div:nth-child(n) > div > p {
 /* ##### CTA ##### */
 
 #cta {
-    background-image: url('/img/cta2.jpg');
+    background-image: url('./img/cta2.jpg');
     background-position-y: 20%;
     background-repeat: no-repeat;
     background-size: cover;
